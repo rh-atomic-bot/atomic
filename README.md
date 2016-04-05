@@ -1,4 +1,4 @@
-# Atomic: /usr/bin/atomic
+# Atomic: /usr/bin/atomic 
 
 This project defines the entrypoint for Project Atomic hosts.  On an
 Atomic Host, there are at least two distinct software
